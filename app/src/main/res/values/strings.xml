@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CryptoCompare</string>
+    <string name ="welcome_note">WELCOME!\n\nCheck the latest exchange rate between cryptocurrencies BTC and ETH, and
+        twenty major currencies of the world.\n\n Press START to continue.</string>
+    <string name="conversion">Convert an amount in the base currency to BTC and ETH</string>
+    <string name="startBtn">START</string>
+    <string name="exitBtn">EXIT</string>
+    <string name="selectText">Select the currencies you want</string>
+    <string-array name="currencies">
+        <item>NGN (Nigeria)</item>
+        <item>USD (USA)</item>
+        <item>EUR (Euro)</item>
+        <item>GBP (UK)</item>
+        <item>CAD (Canada)</item>
+        <item>CHF (Swiss)</item>
+        <item>JPY (Japan)</item>
+        <item>HKD (Hong-Kong)</item>
+        <item>CNY (China)</item>
+        <item>AUD (Australia)</item>
+        <item>NZD (New-Zealand)</item>
+        <item>INR (India)</item>
+        <item>KRW (Korea)</item>
+        <item>RUB (Russia)</item>
+        <item>BRL (Brazil)</item>
+        <item>MXN (Mexico)</item>
+        <item>ZAR (South-Africa)</item>
+        <item>TWD (Taiwan)</item>
+        <item>AED (UAE)</item>
+        <item>SGD (Singapore)</item>
+    </string-array>
+    <string-array name="symbols">
+        <item>NGN</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>JPY</item>
+        <item>HKD</item>
+        <item>CNY</item>
+        <item>AUD</item>
+        <item>NZD</item>
+        <item>INR</item>
+        <item>KRW</item>
+        <item>RUB</item>
+        <item>BRL</item>
+        <item>MXN</item>
+        <item>ZAR</item>
+        <item>TWD</item>
+        <item>AED</item>
+        <item>SGD</item>
+    </string-array>
+</resources>
